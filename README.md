@@ -6,9 +6,12 @@ Identification of user's opinions from natural language text has become an excit
 
 ## About dataset
 Details of the dataset collected from user’s comments in the field of movie scoring from the
-CinemaTicket website (www.cinematicket.org)
+CinemaTicket website 
 ![](data.jpg)
 
+#### dataset
+If you need a dataset, email this address:
+vazanmilad@gmail.com
 ## Citation
 
     @misc{vazan2021jointly,
