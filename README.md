@@ -9,3 +9,13 @@ Details of the dataset collected from user’s comments in the field of movie sc
 CinemaTicket website (www.cinematicket.org)
 ![](data.jpg)
 
+## Citation
+
+   @misc{vazan2021jointly,
+        title={Jointly Modeling Aspect and Polarity for Aspect-based Sentiment Analysis in Persian Reviews}, 
+        author={Milad Vazan and Jafar Razmara},
+        year={2021},
+        eprint={2109.07680},
+        archivePrefix={arXiv},
+        primaryClass={cs.CL}
+  }
