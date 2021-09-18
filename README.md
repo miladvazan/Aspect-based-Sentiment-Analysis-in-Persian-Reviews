@@ -11,10 +11,10 @@ CinemaTicket website (www.cinematicket.org)](assets/Chinese-results.png)
 
 ## Model Performance
 
-### Performance on Chinese Datasets
+### Performance on 
 
-![chinese](assets/Chinese-results.png)
+![1](assets/Chinese-results.png)
 
-### Performance on Multilingual Datasets
+### Performance on 
 
-![multilingual](assets/multilingual-results.png)
+![2](assets/multilingual-results.png)
