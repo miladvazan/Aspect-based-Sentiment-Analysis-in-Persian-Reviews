@@ -10,7 +10,7 @@ CinemaTicket website
 ![](data.jpg)
 
 #### dataset
-If you need a dataset, email this address:
+If you need the dataset of this article, email this address:
 vazanmilad@gmail.com
 ## Citation
 
