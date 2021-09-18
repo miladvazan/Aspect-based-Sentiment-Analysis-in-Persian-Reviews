@@ -9,12 +9,3 @@ Details of the dataset collected from user’s comments in the field of movie sc
 CinemaTicket website (www.cinematicket.org)
 ![](data.jpg)
 
-## Model Performance
-
-### Performance on 
-
-![1](assets/Chinese-results.png)
-
-### Performance on 
-
-![2](assets/multilingual-results.png)
